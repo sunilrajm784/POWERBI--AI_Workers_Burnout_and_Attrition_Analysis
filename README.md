@@ -52,7 +52,6 @@ The dashboard helps organizations understand workforce trends and employee well-
 
 - Employees with high burnout scores show increased attrition risk.
 - AI adoption varies across different job roles.
-- Salary distribution differs significantly between technical and non-technical roles.
 - Fear of AI replacement impacts employee performance and burnout levels.
 
 ---
